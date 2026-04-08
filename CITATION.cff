@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "POLAR: A Per-User Association Test in Embedding Space"
+type: software
+authors:
+  - family-names: Bento
+    given-names: Pedro
+  - family-names: Buzelin
+    given-names: Arthur
+  - family-names: Chagas
+    given-names: Arthur
+  - family-names: Aquino
+    given-names: Yan
+  - family-names: Estanislau
+    given-names: Victoria
+  - family-names: Malaquias
+    given-names: Samira
+  - family-names: Robles Dutenhefner
+    given-names: Pedro
+  - family-names: Pappa
+    given-names: Gisele L.
+  - family-names: Almeida
+    given-names: Virgilio
+  - family-names: Meira Jr
+    given-names: Wagner
+repository-code: "https://github.com/pedroaugtb/POLAR-A-Per-User-Association-Test-in-Embedding-Space"
+url: "https://github.com/pedroaugtb/POLAR-A-Per-User-Association-Test-in-Embedding-Space"
+preferred-citation:
+  type: article
+  title: "POLAR: A Per-User Association Test in Embedding Space"
+  authors:
+    - family-names: Bento
+      given-names: Pedro
+    - family-names: Buzelin
+      given-names: Arthur
+    - family-names: Chagas
+      given-names: Arthur
+    - family-names: Aquino
+      given-names: Yan
+    - family-names: Estanislau
+      given-names: Victoria
+    - family-names: Malaquias
+      given-names: Samira
+    - family-names: Robles Dutenhefner
+      given-names: Pedro
+    - family-names: Pappa
+      given-names: Gisele L.
+    - family-names: Almeida
+      given-names: Virgilio
+    - family-names: Meira Jr
+      given-names: Wagner
+  year: 2026
+  doi: "10.48550/arXiv.2603.15950"
+  url: "https://arxiv.org/abs/2603.15950"
