@@ -1,0 +1,10 @@
+{
+  "out_dir": "outputs/hate_paper",
+  "attributes_path": "configs/attributes.hate.paper.json",
+  "usr_prefix_fallback": "usr",
+  "min_posts_default": 1,
+  "alpha_bh": 0.05,
+  "mc_samples": 2000,
+  "seed": 123,
+  "print_every": 500
+}

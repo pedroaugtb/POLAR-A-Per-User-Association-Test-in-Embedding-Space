@@ -1,0 +1,127 @@
+{
+  "newswire_vs_personal_experience": {
+    "pos": [
+      "court",
+      "officials",
+      "audit",
+      "lawsuit",
+      "compliance",
+      "protocol",
+      "prosecutor",
+      "indictment",
+      "verdict",
+      "subpoena",
+      "agency",
+      "statute",
+      "regulation",
+      "guidelines",
+      "commission",
+      "bulletin"
+    ],
+    "neg": [
+      "tbh",
+      "omg",
+      "pls",
+      "lol",
+      "btw",
+      "haha",
+      "buddy",
+      "fam",
+      "hi",
+      "sorta",
+      "rofl",
+      "ya",
+      "ur",
+      "idk",
+      "nah"
+    ]
+  },
+  "promo_cta_vs_hedges": {
+    "pos": [
+      "offer",
+      "order",
+      "deal",
+      "register",
+      "apply",
+      "claim",
+      "act",
+      "subscribe",
+      "discount",
+      "limited time",
+      "download",
+      "sale"
+    ],
+    "neg": [
+      "i think",
+      "i wonder",
+      "i guess",
+      "i feel",
+      "i suspect",
+      "not sure",
+      "i suppose",
+      "conceivably",
+      "think",
+      "it seems",
+      "sorta",
+      "kinda"
+    ]
+  },
+  "toxicity_vs_civility": {
+    "pos": [
+      "coward",
+      "fraud",
+      "rage",
+      "worst",
+      "loser",
+      "shut up",
+      "idiot",
+      "jerk",
+      "filthy",
+      "worthless",
+      "nasty",
+      "garbage"
+    ],
+    "neg": [
+      "thank you",
+      "please",
+      "kindness",
+      "empathy",
+      "sorry",
+      "supportive",
+      "helpful",
+      "inclusive",
+      "listen",
+      "appreciate",
+      "considerate",
+      "apologies"
+    ]
+  },
+  "scam_finance_vs_daily_life": {
+    "pos": [
+      "smart contract",
+      "investment",
+      "seed phrase",
+      "bonus",
+      "liquidity",
+      "trading signals",
+      "guaranteed profit",
+      "passive income",
+      "airdrop",
+      "claim reward",
+      "binary options",
+      "earn money"
+    ],
+    "neg": [
+      "backyard bbq",
+      "morning jog",
+      "walk the dog",
+      "taking the bus",
+      "weekend",
+      "carpool",
+      "movie night",
+      "picnic in the park",
+      "birthday",
+      "laundry day"
+    ]
+  }
+}
